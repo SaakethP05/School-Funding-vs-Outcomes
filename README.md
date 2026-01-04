@@ -5,6 +5,7 @@ Contains the code to analyze and predict the level of student performance based 
 - This project will analyze the school funding for Texas districts and determine whether the funding plays a feasable role in student outcomes. Based on this, it can help governments and districts act accordingly in order to maximize both student success and funding.
 
 ## Research Questions
+- How does school district funding relate to dropout rates after accounting for socioeconomic disadvantage and district scale?
 - Are districs gettting enough funding for their students?
 - Does district funding directly correlate to student outcomes?
 - Why does higher student outcomes occur? Is it because of funding of some other variable?
